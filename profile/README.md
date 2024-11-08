@@ -1,4 +1,4 @@
-# Vision Predator
+# 팀 비전 프레데터
 
 안녕하세요! 한국콘텐츠진흥원 KOCCA 게임인재원 5기 Vision Predator 팀의 페이지에 오신걸 환영합니다!  
 
