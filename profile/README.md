@@ -23,5 +23,5 @@
 
 ## 다운로드
 아래 링크를 통해 게임을 다운로드 받아 직접 플레이해보세요!
-- 유니티 빌드 다운로드
+- [유니티 빌드 다운로드](https://github.com/VisionPredator/VisionPredator-Unity/releases)
 - [자체엔진 빌드 다운로드](https://github.com/VisionPredator/VisionPredator-InHouse/releases)
